@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mv-creation/static/css/main.e8cb78bf.css",
+    "main.js": "/mv-creation/static/js/main.9b743b7e.js",
+    "index.html": "/mv-creation/index.html",
+    "main.e8cb78bf.css.map": "/mv-creation/static/css/main.e8cb78bf.css.map",
+    "main.9b743b7e.js.map": "/mv-creation/static/js/main.9b743b7e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8cb78bf.css",
+    "static/js/main.9b743b7e.js"
+  ]
+}
