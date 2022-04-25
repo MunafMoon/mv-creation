@@ -33,7 +33,7 @@ function Navbar() {
           <div className='navbar'>
               <div className="navbar-container container">
 
-                  <Link to="/" className="navbar-logo" onClick={closeMobileMenu}>
+//                   <Link to="/" className="navbar-logo" onClick={closeMobileMenu}>
                       {/* <MdFingerprint className="navbar-icon" /> */}
                       {/* <IoBalloon className="navbar-icon" /> */}
                       <img src="images/img5.png" alt="" />
