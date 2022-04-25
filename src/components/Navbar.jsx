@@ -36,7 +36,7 @@ function Navbar() {
 //                   <Link to="/" className="navbar-logo" onClick={closeMobileMenu}>
                       {/* <MdFingerprint className="navbar-icon" /> */}
                       {/* <IoBalloon className="navbar-icon" /> */}
-                      <img src="images/img5.png" alt="" />
+                      <img src="images/img2.png" alt="" />
 
                   </Link>
 
